@@ -1,5 +1,17 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>Building small to medium projects to strengthen my fundamentals<br><br>Practicing problem-solving and clean code<br><br>Improving my Git & GitHub workflow<br><br>👯 I’m looking to collaborate on<br><br>Beginner-friendly open-source projects<br><br>Student or learning-focused software projects<br><br>Anything that helps me grow as a developer step by step<br><br>🤝 I’m looking for help with<br><br>Understanding complex concepts in a simple, structured way<br><br>Best practices in software engineering<br><br>Project ideas that help bridge theory and practice<br><br>🌱 I’m currently learning<br><br>Core software engineering concepts<br><br>Programming fundamentals and data structures<br><br>Writing readable, maintainable code
+
+🎓 Étudiante en génie logiciel<br><br>
+📊 J’explore l’analyse de données appliquée à la finance, portée par la curiosité pour les données du monde réel<br><br>
+💻 Je développe de petits projets pour renforcer mes bases en programmation<br><br>
+🌱 J’aime apprendre, expérimenter et progresser étape par étape<br><br>
+
+---
+
+🎓 Software engineering student<br><br>
+📊 Exploring data analysis in finance, driven by curiosity about real-world data<br><br>
+💻 Building small projects to strengthen programming fundamentals<br><br>
+🌱 I genuinely enjoy learning, experimenting, and improving step by step
+
 
 
 ## 🌐 Socials:
