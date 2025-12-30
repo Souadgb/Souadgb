@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💻:
 
 🎓 Étudiante en génie logiciel<br><br>
 📊 J’explore l’analyse de données appliquée à la finance, portée par la curiosité pour les données du monde réel<br><br>
