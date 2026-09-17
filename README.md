@@ -1,15 +1,10 @@
 # 💻
 
 🎓 Étudiante en génie logiciel à l'École de Technologie Supérieure<br><br>
-📊 J’explore l’analyse de données appliquée à la finance, portée par la curiosité pour les données du monde réel<br><br>
-💻 Je développe de petits projets pour renforcer mes bases en programmation<br><br>
 
 ---
 
 🎓 Software engineering student @ ÉTS<br><br>
-📊 Exploring data analysis in finance, driven by curiosity about real-world data<br><br>
-💻 Building small projects to strengthen programming fundamentals<br><br>
-
 
 
 ## 🌐 Socials:
